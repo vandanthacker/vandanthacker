@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vandan Thacker</h1>
 <h3 align="center">4th Computer Science Student at WLU</h3>
 
-![matrix GIF](https://raw.githubusercontent.com/vandanthacker/vandanthacker/master/matrix.gif)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/vandanthacker/vandanthacker/master/matrix.gif" alt="matrix GIF">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandanthacker&label=Profile%20views&color=0e75b6&style=flat" alt="vandanthacker" /> </p>
 
